@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemes.android.com/tools"
+    tools:context="com.example.dev.smartcook.create_session">
+
+    <item android:id="@+id/examine"
+        android:title="Examine temperature">
+    </item>
+    <item android:id="@+id/main"
+        android:title="Main">
+    </item>
+    <item android:id="@+id/show_session"
+        android:title="Show actual session">
+    </item>
+
+</menu>
