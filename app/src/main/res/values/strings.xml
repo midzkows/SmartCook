@@ -2,4 +2,14 @@
     <string name="app_name">SmartCook</string>
     <string name="open">Open</string>
     <string name="close">Close</string>
+
+    <string name="dish_prompt">Choose a dish</string>
+
+    <string-array name="dish_arrays">
+        <item>Pizza 200°C 15 min</item>
+        <item>Cake 180°C 50 min</item>
+        <item>Chicken 200°C 60 min</item>
+    </string-array>
+
+
 </resources>
