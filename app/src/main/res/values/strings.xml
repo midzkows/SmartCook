@@ -6,9 +6,33 @@
     <string name="dish_prompt">Choose a dish</string>
 
     <string-array name="dish_arrays">
-        <item>Pizza 200°C 15 min</item>
-        <item>Cake 180°C 50 min</item>
-        <item>Chicken 200°C 60 min</item>
+        <item>Pizza</item>
+        <item>Cake</item>
+        <item>Chicken</item>
+        <item>Pork</item>
+
+    </string-array>
+
+
+    <string name="temp_prompt">Choose a dish</string>
+
+    <string-array name="temp_arrays">
+        <item>150 °C</item>
+        <item>180 °C</item>
+        <item>200 °C</item>
+        <item>220 °C</item>
+
+    </string-array>
+
+    <string name="time_prompt">Choose a dish</string>
+
+    <string-array name="time_arrays">
+        <item>30 min</item>
+        <item>45 min</item>
+        <item>60 min</item>
+        <item>90 min</item>
+        <item>120 min</item>
+
     </string-array>
 
 

@@ -13,7 +13,7 @@ public class MainActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        start_heating = (Button) findViewById(R.id.start_heating);
+        start_heating = findViewById(R.id.start_heating);
         start_heating.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
